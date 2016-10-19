@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Giá Cà Phê</string>
+    <string name="pick_date">Xem</string>
+    <string name="title">Giá cà phê nội địa</string>
+    <string name="action_settings">Settings</string>
+    <string name="message">Chưa có giá cho ngày này!</string>
+    <string name="about">Giới thiệu</string>
+    <string name="version">Giá cà phê 1.01</string>
+    <string name="author">Khánh D. Lương</string>
+    <string name="infotext">Phiên bản đầu tiên chỉ gồm chức năng xem giá cà phê nội địa.Sẽ cập nhật các tính năng như: dự báo thời tiết, kỹ thuật canh tác, hỏi đáp và tư vấn.\nMọi ý kiến đóng góp xin gửi về email khanhld1910@mail.com.\nXin chân thành cảm ơn vì đã sử dụng sản phẩm.</string>
+
+</resources>

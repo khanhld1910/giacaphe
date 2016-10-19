@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<color name="background_color">#DCEDC8</color>
+<color name="border_color">#BDBDBD</color>
+<color name="increase">#159F5C</color>
+<color name="decrease">#DD4D41</color>
+<color name="actionbarcolor">#3E50B4</color>
+
+</resources>
